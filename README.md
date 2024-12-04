@@ -13,7 +13,7 @@ Computer Engineering Student
 * ⚡  GamerTag : ImtaeZ
 
 ### Projects
-- COMPROG COURSE
+- All my courses in Chulalonkorn --> https://github.com/ImtaeZ/Chula-Course/blob/c3788a09669fcec8735a7c7f9dcb665ce296b7a5/README.md
 
 ### Skills
 
