@@ -13,7 +13,8 @@ Computer Engineering Student
 * ⚡  GamerTag : ImtaeZ
 
 ### Projects
-- All my courses in Chulalonkorn --> https://github.com/ImtaeZ/Chula-Course/tree/main
+- All my courses in Chulalonkorn --> https://github.com/ImtaeZ/Chula-Course
+- My Calculator Project --> https://github.com/ImtaeZ/Calculatae
 
 ### Skills
 
