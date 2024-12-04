@@ -12,6 +12,9 @@ Computer Engineering Student
 * 🤝  I'm open to collaborating on ML projects
 * ⚡  GamerTag : ImtaeZ
 
+### Projects
+- COMPROG COURSE
+
 ### Skills
 
 
