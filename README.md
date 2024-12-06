@@ -13,8 +13,13 @@ Computer Engineering Student
 * ⚡  GamerTag : ImtaeZ
 
 ### Projects
-- All my courses in Chulalonkorn --> https://github.com/ImtaeZ/Chula-Course
-- My Calculator Project --> https://github.com/ImtaeZ/Calculatae
+- :mortar_board: All my courses in Chulalonkorn --> https://github.com/ImtaeZ/Chula-Course
+- :1234: My Calculator Project --> https://github.com/ImtaeZ/Calculatae
+
+### Side Projects
+- :page_with_curl: PDF-Merger --> https://github.com/ImtaeZ/PDF-Merger
+- :calling: Youtube Video Downloader --> https://github.com/ImtaeZ/YT-Video-Downloader
+- :wrench: Photo Editor --> https://github.com/ImtaeZ/Photo-Editor-ImtaeZ
 
 ### Skills
 
