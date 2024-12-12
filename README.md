@@ -20,6 +20,7 @@ Computer Engineering Student
 - :page_with_curl: PDF-Merger --> [PDF Merger](https://github.com/ImtaeZ/PDF-Merger)
 - :calling: Youtube Video Downloader --> [Youtube Video Dowloader](https://github.com/ImtaeZ/YT-Video-Downloader)
 - :wrench: Photo Editor -->[Photo Editor](https://github.com/ImtaeZ/Photo-Editor-ImtaeZ)
+- 🎰 Slot Machine Game -->[Slot Machine Game](https://github.com/ImtaeZ/Slot-Machine-by-ImtaeZ)
 
 ### Skills
 
