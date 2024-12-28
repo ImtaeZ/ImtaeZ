@@ -17,6 +17,7 @@ Computer Engineering Student
 - :1234: My Calculator Project --> [Calculatae](https://github.com/ImtaeZ/Calculatae)
 
 ### Side Projects
+- 🚪20 Basic Front End Projects --> [Front End Projects](https://github.com/ImtaeZ/20-Basic-Frontend-Projects)
 - :page_with_curl: PDF-Merger --> [PDF Merger](https://github.com/ImtaeZ/PDF-Merger)
 - :calling: Youtube Video Downloader --> [Youtube Video Dowloader](https://github.com/ImtaeZ/YT-Video-Downloader)
 - :wrench: Photo Editor -->[Photo Editor](https://github.com/ImtaeZ/Photo-Editor-ImtaeZ)
