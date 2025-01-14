@@ -11,7 +11,7 @@ Computer Engineering Student
 ----------------------------
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-\- I'm currently studying at Chulalonkorn University
+\- I'm currently studying at Chulalongkorn University
 
 * 🌍  I'm based in Bankok, Thailand
 * ✉️  You can contact me at [nirawit122005@gmail.com](mailto:nirawit122005@gmail.com)
