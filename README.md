@@ -21,6 +21,7 @@ Computer Engineering Student
 
 ----------------------------
 ### Projects
+- 📊 Predicting NER tags in Thai language using CRF --> [CRFs Model](https://github.com/ImtaeZ/Predicting-NER-tags-using-CRFs-Models)
 - :mortar_board: All my courses in Chulalonkorn --> [Chula Courses](https://github.com/ImtaeZ/Chula-Course)
 - :1234: My Calculator Project --> [Calculatae](https://github.com/ImtaeZ/Calculatae)
 
