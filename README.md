@@ -15,13 +15,17 @@ Computer Engineering Student
 
 * 🌍  I'm based in Bankok, Thailand
 * ✉️  You can contact me at [nirawit122005@gmail.com](mailto:nirawit122005@gmail.com)
-* 🧠  I'm learning Machine Learning / Kaggle / Tensorflow
-* 🤝  I'm open to collaborating on Machine Learning project / Deep Learning project / Hackathons / Kaggle Competitions
+* 🧠  I'm learning Machine Learning / AI
+* 🤝  I'm open to collaborating on Machine Learning project / Hackathons / Kaggle Competitions
 * ⚡  GamerTag : ImtaeZ
 
 ----------------------------
+### 📊 Maching Learning Projects and Hackathons
+#### Natural Language Processing (NLP)
+- Predicting NER tags in Thai language using CRF --> [NER tags prediction](https://github.com/ImtaeZ/Predicting-NER-tags-using-CRFs-Models)
+- Financial Analysis Agent Hackathon --> [Financial-Analysis-Agent-Hackathon](https://github.com/ImtaeZ/Financial-Analysis-Agent-Hackathon)
+----------------------------
 ### Projects
-- 📊 Predicting NER tags in Thai language using CRF --> [CRFs Model](https://github.com/ImtaeZ/Predicting-NER-tags-using-CRFs-Models)
 - :mortar_board: All my courses in Chulalonkorn --> [Chula Courses](https://github.com/ImtaeZ/Chula-Course)
 - :1234: My Calculator Project --> [Calculatae](https://github.com/ImtaeZ/Calculatae)
 
