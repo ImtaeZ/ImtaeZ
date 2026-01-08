@@ -18,7 +18,7 @@ Computer Engineering Student
 * 🧠  I'm learning Machine Learning / AI
 * 🤝  I'm open to collaborating on Machine Learning project / Hackathons / Kaggle Competitions
 * ⚡  GamerTag : ImtaeZ
-
+* CV -> [Resume/CV](https://github.com/ImtaeZ/ImtaeZ/blob/main/Nirawit-Jongprasartsuk_CV.pdf)
 ----------------------------
 ### 📊 Maching Learning Projects and Hackathons
 #### Natural Language Processing (NLP)
