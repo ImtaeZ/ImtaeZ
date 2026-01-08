@@ -24,6 +24,12 @@ Computer Engineering Student
 #### Natural Language Processing (NLP)
 - Predicting NER tags in Thai language using CRF --> [NER tags prediction](https://github.com/ImtaeZ/Predicting-NER-tags-using-CRFs-Models)
 - Financial Analysis Agent Hackathon --> [Financial-Analysis-Agent-Hackathon](https://github.com/ImtaeZ/Financial-Analysis-Agent-Hackathon)
+
+----------------------------
+### 🎮 Game Development
+- Recreation of Five Night at Freddy's in GODOT --> [FNAF (COMING SOON)](https://github.com/ImtaeZ/Predicting-NER-tags-using-CRFs-Models)
+- Heng Daily --> [HENG DAILY](https://github.com/DeepAung/hengdaily)
+
 ----------------------------
 ### Projects
 - :mortar_board: All my courses in Chulalonkorn --> [Chula Courses](https://github.com/ImtaeZ/Chula-Course)
