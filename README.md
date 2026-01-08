@@ -27,7 +27,7 @@ Computer Engineering Student
 
 ----------------------------
 ### 🎮 Game Development
-- Recreation of Five Night at Freddy's in GODOT --> [FNAF (COMING SOON)](https://github.com/ImtaeZ/Predicting-NER-tags-using-CRFs-Models)
+- Recreation of Five Night at Freddy's in GODOT --> [FNAF (COMING SOON)](https://github.com/ImtaeZ/FNAF-1-in-Godot)
 - Heng Daily --> [HENG DAILY](https://github.com/DeepAung/hengdaily)
 
 ----------------------------
